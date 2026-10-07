@@ -1,0 +1,5 @@
+node_modules
+dist
+# исходники фото (копии уже в public/)
+/bema/
+/anime/
